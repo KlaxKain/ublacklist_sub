@@ -6,8 +6,17 @@ Get uBlacklist for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ubla
 
 To add blocklists, add this URL to your subscriptions:
 
+### I Quit Social Media
 ```
 https://raw.githubusercontent.com/KlaxKain/ublacklist-anti-social-media/refs/heads/main/ublacklist-anti-social-media
+```
+### I Quit Social Media (KR)
+```
+https://raw.githubusercontent.com/KlaxKain/ublacklist-anti-social-media/refs/heads/main/ublacklist-anti-social-media-kr
+```
+### I Hate Pinterest
+```
+https://raw.githubusercontent.com/KlaxKain/ublacklist-anti-social-media/refs/heads/main/ublacklist-anti-pinterest
 ```
 
 ## Found a bug?
