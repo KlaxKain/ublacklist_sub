@@ -12,4 +12,4 @@ https://raw.githubusercontent.com/KlaxKain/ublacklist-anti-social-media/refs/hea
 
 ## Found a bug?
 
-If you found a bug, [let me know](https://github.com/KlaxKain/ublacklist_antisns/issues)!
+If you found a bug, [let me know](https://github.com/KlaxKain/ublacklist-anti-social-media/issues)!
