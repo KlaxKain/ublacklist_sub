@@ -10,6 +10,7 @@ homepage: https://github.com/KlaxKain/ublacklist-anti-social-media
 *://*.facebook.com/*
 *://*.instagram.com/*
 *://*.4chan.org/*
+*://www.furaffinity.net/*
 
 #pinterest
 *://*.pinterest.at/*
