@@ -6,11 +6,10 @@ Get uBlacklist for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ubla
 
 To add blocklists, add URL to your subscriptions:
 
-### I hate SNS
 ```
 https://raw.githubusercontent.com/Kanarimadar/ublacklist_sub/refs/heads/main/ublacklist_antisns
 ```
 
 ## Found a bug?
 
-If you found a bug, [let me know](https://github.com/RubenKelevra/ublacklist_rightwing_media/issues/new/choose)!
+If you found a bug, [let me know](https://github.com/Kanarimadar/ublacklist_sub/issues)!
