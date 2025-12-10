@@ -1,0 +1,45 @@
+---
+name: I Quit Social Media (KR)
+description: Removes (most) social media site
+homepage: https://github.com/KlaxKain/ublacklist-anti-social-media
+---
+
+#Local-KR
+*://*.ilbe.com/*
+*://*.inven.co.kr/*
+*://*.ruliweb.com/*
+*://tdgall.com/*
+*://*.dcinside.com/*
+*://lineagem.plaync.com/*
+*://*.dogdrip.net/*
+*://*.fmkorea.com/*
+*://arca.live/*
+*://tdgall.com/*
+*://theqoo.net/*
+*://clien.net/*
+*://hygall.com/*
+*://www.ppomppu.co.kr/*
+*://orbi.kr/*
+*://web.humoruniv.com/*
+
+#Right-Wing-Media
+*://*.chosun.com/*
+*://*.donga.com/*
+*://*.kmib.co.kr/*
+*://*.joongang.co.kr/*
+
+#Namu-Wiki
+*://namu.wiki/*
+*://*.namu.wiki/*
+*://*.namu.moe/*
+*://www.alphawiki.org/*
+*://www.unamwiki.org/*
+
+#Global
+*://*.tiktok.com/*
+*://twitter.com/*
+*://*.x.com/*
+*://*.facebook.com/*
+*://*.instagram.com/*
+*://*.4chan.org/*
+*://www.furaffinity.net/*
