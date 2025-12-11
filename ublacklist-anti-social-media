@@ -11,7 +11,7 @@ homepage: https://github.com/KlaxKain/ublacklist-anti-social-media
 *://*.facebook.com/*
 *://*.instagram.com/*
 *://*.4chan.org/*
-*://www.furaffinity.net/*
+*://*.furaffinity.net/*
 
 #Annoying-Religions
 *://www.jw.org/*
